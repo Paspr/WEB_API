@@ -9,5 +9,5 @@ http://localhost:{}/api/weathertime?zip={}
 
 ## Example of Web API using
 http://localhost:{}/api/weathertime?zip=10001 for New-York  
-http://localhost:{}/api/weathertime?zip=02108 for Boston  
+http://localhost:{}/api/weathertime?zip=60007 for Evanston  
 http://localhost:{}/api/weathertime?zip=98101 for Seattle  
